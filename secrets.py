@@ -1,0 +1,2 @@
+clientId = "868c0063213e4bd096d84b21e89e466d"
+clientSecret = "9fe095b2935945c987836c148ed416f3"
