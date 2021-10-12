@@ -114,4 +114,4 @@ dmypy.json
 .pyre/
 
 # Ignorar credenciales
-secretes.py
+secrets.py
